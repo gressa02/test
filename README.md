@@ -1,4 +1,2 @@
 # test
-ini hanya test
-- buah  duren
-- biji salak
+ini hanya test 
